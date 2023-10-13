@@ -1,0 +1,4 @@
+nome;nota;avaliacoes;popularidade
+WANDINHA;8.1;335K;93
+A CASA DO DRAGÃO;8.5;343K;78
+THE BOYS;8.7;591K;10
