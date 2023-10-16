@@ -1,0 +1,251 @@
+title;rating;score;director
+Um Sonho de Liberdade;Um Sonho de Liberdade;Um Sonho de Liberdade;Um Sonho de Liberdade
+O Poderoso Chefão;O Poderoso Chefão;O Poderoso Chefão;O Poderoso Chefão
+Batman: O Cavaleiro das Trevas;Batman: O Cavaleiro das Trevas;Batman: O Cavaleiro das Trevas;Batman: O Cavaleiro das Trevas
+O Poderoso Chefão II;O Poderoso Chefão II;O Poderoso Chefão II;O Poderoso Chefão II
+12 Homens e uma Sentença;12 Homens e uma Sentença;12 Homens e uma Sentença;12 Homens e uma Sentença
+A Lista de Schindler;A Lista de Schindler;A Lista de Schindler;A Lista de Schindler
+O Senhor dos Anéis: O Retorno do Rei;O Senhor dos Anéis: O Retorno do Rei;O Senhor dos Anéis: O Retorno do Rei;O Senhor dos Anéis: O Retorno do Rei
+Pulp Fiction - Tempo de Violência;Pulp Fiction - Tempo de Violência;Pulp Fiction - Tempo de Violência;Pulp Fiction - Tempo de Violência
+O Senhor dos Anéis: A Sociedade do Anel;O Senhor dos Anéis: A Sociedade do Anel;O Senhor dos Anéis: A Sociedade do Anel;O Senhor dos Anéis: A Sociedade do Anel
+Três Homens em Conflito;Três Homens em Conflito;Três Homens em Conflito;Três Homens em Conflito
+Forrest Gump: O Contador de Histórias;Forrest Gump: O Contador de Histórias;Forrest Gump: O Contador de Histórias;Forrest Gump: O Contador de Histórias
+Clube da Luta;Clube da Luta;Clube da Luta;Clube da Luta
+O Senhor dos Anéis: As Duas Torres;O Senhor dos Anéis: As Duas Torres;O Senhor dos Anéis: As Duas Torres;O Senhor dos Anéis: As Duas Torres
+A Origem;A Origem;A Origem;A Origem
+Star Wars: Episódio V - O Império Contra-Ataca;Star Wars: Episódio V - O Império Contra-Ataca;Star Wars: Episódio V - O Império Contra-Ataca;Star Wars: Episódio V - O Império Contra-Ataca
+Matrix;Matrix;Matrix;Matrix
+Os Bons Companheiros;Os Bons Companheiros;Os Bons Companheiros;Os Bons Companheiros
+Um Estranho no Ninho;Um Estranho no Ninho;Um Estranho no Ninho;Um Estranho no Ninho
+Seven: Os Sete Crimes Capitais;Seven: Os Sete Crimes Capitais;Seven: Os Sete Crimes Capitais;Seven: Os Sete Crimes Capitais
+A Felicidade Não se Compra;A Felicidade Não se Compra;A Felicidade Não se Compra;A Felicidade Não se Compra
+Os Sete Samurais;Os Sete Samurais;Os Sete Samurais;Os Sete Samurais
+Homem-Aranha: Através do Aranhaverso;Homem-Aranha: Através do Aranhaverso;Homem-Aranha: Através do Aranhaverso;Homem-Aranha: Através do Aranhaverso
+Interestelar;Interestelar;Interestelar;Interestelar
+O Silêncio dos Inocentes;O Silêncio dos Inocentes;O Silêncio dos Inocentes;O Silêncio dos Inocentes
+O Resgate do Soldado Ryan;O Resgate do Soldado Ryan;O Resgate do Soldado Ryan;O Resgate do Soldado Ryan
+Cidade de Deus;Cidade de Deus;Cidade de Deus;Cidade de Deus
+A Vida é Bela;A Vida é Bela;A Vida é Bela;A Vida é Bela
+À Espera de um Milagre;À Espera de um Milagre;À Espera de um Milagre;À Espera de um Milagre
+Star Wars: Episódio IV - Uma Nova Esperança;Star Wars: Episódio IV - Uma Nova Esperança;Star Wars: Episódio IV - Uma Nova Esperança;Star Wars: Episódio IV - Uma Nova Esperança
+O Exterminador do Futuro 2: O Julgamento Final;O Exterminador do Futuro 2: O Julgamento Final;O Exterminador do Futuro 2: O Julgamento Final;O Exterminador do Futuro 2: O Julgamento Final
+De Volta para o Futuro;De Volta para o Futuro;De Volta para o Futuro;De Volta para o Futuro
+A Viagem de Chihiro;A Viagem de Chihiro;A Viagem de Chihiro;A Viagem de Chihiro
+O Pianista;O Pianista;O Pianista;O Pianista
+Psicose;Psicose;Psicose;Psicose
+Parasita;Parasita;Parasita;Parasita
+Gladiador;Gladiador;Gladiador;Gladiador
+O Rei Leão;O Rei Leão;O Rei Leão;O Rei Leão
+O Profissional;O Profissional;O Profissional;O Profissional
+A Outra História Americana;A Outra História Americana;A Outra História Americana;A Outra História Americana
+Os Infiltrados;Os Infiltrados;Os Infiltrados;Os Infiltrados
+Whiplash: Em Busca da Perfeição;Whiplash: Em Busca da Perfeição;Whiplash: Em Busca da Perfeição;Whiplash: Em Busca da Perfeição
+O Grande Truque;O Grande Truque;O Grande Truque;O Grande Truque
+Os Suspeitos;Os Suspeitos;Os Suspeitos;Os Suspeitos
+Túmulo dos Vagalumes;Túmulo dos Vagalumes;Túmulo dos Vagalumes;Túmulo dos Vagalumes
+Harakiri;Harakiri;Harakiri;Harakiri
+Casablanca;Casablanca;Casablanca;Casablanca
+Oppenheimer;Oppenheimer;Oppenheimer;Oppenheimer
+Intocáveis;Intocáveis;Intocáveis;Intocáveis
+Tempos Modernos;Tempos Modernos;Tempos Modernos;Tempos Modernos
+Cinema Paradiso;Cinema Paradiso;Cinema Paradiso;Cinema Paradiso
+Era uma Vez no Oeste;Era uma Vez no Oeste;Era uma Vez no Oeste;Era uma Vez no Oeste
+Janela Indiscreta;Janela Indiscreta;Janela Indiscreta;Janela Indiscreta
+Alien - O 8º Passageiro;Alien - O 8º Passageiro;Alien - O 8º Passageiro;Alien - O 8º Passageiro
+Luzes da Cidade;Luzes da Cidade;Luzes da Cidade;Luzes da Cidade
+Apocalypse Now;Apocalypse Now;Apocalypse Now;Apocalypse Now
+Amnésia;Amnésia;Amnésia;Amnésia
+Django Livre;Django Livre;Django Livre;Django Livre
+Os Caçadores da Arca Perdida;Os Caçadores da Arca Perdida;Os Caçadores da Arca Perdida;Os Caçadores da Arca Perdida
+WALL·E;WALL·E;WALL·E;WALL·E
+A Vida dos Outros;A Vida dos Outros;A Vida dos Outros;A Vida dos Outros
+Crepúsculo dos Deuses;Crepúsculo dos Deuses;Crepúsculo dos Deuses;Crepúsculo dos Deuses
+Glória Feita de Sangue;Glória Feita de Sangue;Glória Feita de Sangue;Glória Feita de Sangue
+Vingadores: Guerra Infinita;Vingadores: Guerra Infinita;Vingadores: Guerra Infinita;Vingadores: Guerra Infinita
+O Iluminado;O Iluminado;O Iluminado;O Iluminado
+O Grande Ditador;O Grande Ditador;O Grande Ditador;O Grande Ditador
+Testemunha de Acusação;Testemunha de Acusação;Testemunha de Acusação;Testemunha de Acusação
+Homem-Aranha: No Aranhaverso;Homem-Aranha: No Aranhaverso;Homem-Aranha: No Aranhaverso;Homem-Aranha: No Aranhaverso
+Aliens, O Resgate;Aliens, O Resgate;Aliens, O Resgate;Aliens, O Resgate
+Bastardos Inglórios;Bastardos Inglórios;Bastardos Inglórios;Bastardos Inglórios
+Batman: O Cavaleiro das Trevas Ressurge;Batman: O Cavaleiro das Trevas Ressurge;Batman: O Cavaleiro das Trevas Ressurge;Batman: O Cavaleiro das Trevas Ressurge
+Beleza Americana;Beleza Americana;Beleza Americana;Beleza Americana
+Dr. Fantástico;Dr. Fantástico;Dr. Fantástico;Dr. Fantástico
+Oldboy;Oldboy;Oldboy;Oldboy
+Viva: A Vida é uma Festa;Viva: A Vida é uma Festa;Viva: A Vida é uma Festa;Viva: A Vida é uma Festa
+Amadeus;Amadeus;Amadeus;Amadeus
+Toy Story;Toy Story;Toy Story;Toy Story
+O Barco: Inferno no Mar;O Barco: Inferno no Mar;O Barco: Inferno no Mar;O Barco: Inferno no Mar
+Coração Valente;Coração Valente;Coração Valente;Coração Valente
+Vingadores: Ultimato;Vingadores: Ultimato;Vingadores: Ultimato;Vingadores: Ultimato
+Coringa;Coringa;Coringa;Coringa
+Princesa Mononoke;Princesa Mononoke;Princesa Mononoke;Princesa Mononoke
+Gênio Indomável;Gênio Indomável;Gênio Indomável;Gênio Indomável
+Your Name.;Your Name.;Your Name.;Your Name.
+Era uma Vez na América;Era uma Vez na América;Era uma Vez na América;Era uma Vez na América
+3 Idiotas;3 Idiotas;3 Idiotas;3 Idiotas
+Céu E Inferno;Céu E Inferno;Céu E Inferno;Céu E Inferno
+Cantando na Chuva;Cantando na Chuva;Cantando na Chuva;Cantando na Chuva
+Cafarnaum;Cafarnaum;Cafarnaum;Cafarnaum
+Réquiem para um Sonho;Réquiem para um Sonho;Réquiem para um Sonho;Réquiem para um Sonho
+Toy Story 3;Toy Story 3;Toy Story 3;Toy Story 3
+Vá e Veja;Vá e Veja;Vá e Veja;Vá e Veja
+Star Wars, Episódio VI: O Retorno do Jedi;Star Wars, Episódio VI: O Retorno do Jedi;Star Wars, Episódio VI: O Retorno do Jedi;Star Wars, Episódio VI: O Retorno do Jedi
+Brilho Eterno de uma Mente sem Lembranças;Brilho Eterno de uma Mente sem Lembranças;Brilho Eterno de uma Mente sem Lembranças;Brilho Eterno de uma Mente sem Lembranças
+2001: Uma Odisséia no Espaço;2001: Uma Odisséia no Espaço;2001: Uma Odisséia no Espaço;2001: Uma Odisséia no Espaço
+A Caça;A Caça;A Caça;A Caça
+Cães de Aluguel;Cães de Aluguel;Cães de Aluguel;Cães de Aluguel
+Viver;Viver;Viver;Viver
+Lawrence da Arábia;Lawrence da Arábia;Lawrence da Arábia;Lawrence da Arábia
+Cidadão Kane;Cidadão Kane;Cidadão Kane;Cidadão Kane
+M, o Vampiro de Dusseldorf;M, o Vampiro de Dusseldorf;M, o Vampiro de Dusseldorf;M, o Vampiro de Dusseldorf
+Se Meu Apartamento Falasse;Se Meu Apartamento Falasse;Se Meu Apartamento Falasse;Se Meu Apartamento Falasse
+Intriga Internacional;Intriga Internacional;Intriga Internacional;Intriga Internacional
+Um Corpo que Cai;Um Corpo que Cai;Um Corpo que Cai;Um Corpo que Cai
+Pacto de Sangue;Pacto de Sangue;Pacto de Sangue;Pacto de Sangue
+O Fabuloso Destino de Amélie Poulain;O Fabuloso Destino de Amélie Poulain;O Fabuloso Destino de Amélie Poulain;O Fabuloso Destino de Amélie Poulain
+Scarface;Scarface;Scarface;Scarface
+Nascido para Matar;Nascido para Matar;Nascido para Matar;Nascido para Matar
+Laranja Mecânica;Laranja Mecânica;Laranja Mecânica;Laranja Mecânica
+Incêndios;Incêndios;Incêndios;Incêndios
+Fogo Contra Fogo;Fogo Contra Fogo;Fogo Contra Fogo;Fogo Contra Fogo
+Up: Altas Aventuras;Up: Altas Aventuras;Up: Altas Aventuras;Up: Altas Aventuras
+Hamilton;Hamilton;Hamilton;Hamilton
+O Sol é para Todos;O Sol é para Todos;O Sol é para Todos;O Sol é para Todos
+Golpe de Mestre;Golpe de Mestre;Golpe de Mestre;Golpe de Mestre
+A Separação;A Separação;A Separação;A Separação
+Indiana Jones e a Última Cruzada;Indiana Jones e a Última Cruzada;Indiana Jones e a Última Cruzada;Indiana Jones e a Última Cruzada
+Metrópolis;Metrópolis;Metrópolis;Metrópolis
+Duro de Matar;Duro de Matar;Duro de Matar;Duro de Matar
+Como Estrelas na Terra;Como Estrelas na Terra;Como Estrelas na Terra;Como Estrelas na Terra
+Snatch: Porcos e Diamantes;Snatch: Porcos e Diamantes;Snatch: Porcos e Diamantes;Snatch: Porcos e Diamantes
+Ladrões de Bicicletas;Ladrões de Bicicletas;Ladrões de Bicicletas;Ladrões de Bicicletas
+Los Angeles: Cidade Proibida;Los Angeles: Cidade Proibida;Los Angeles: Cidade Proibida;Los Angeles: Cidade Proibida
+Taxi Driver: Motorista de Táxi;Taxi Driver: Motorista de Táxi;Taxi Driver: Motorista de Táxi;Taxi Driver: Motorista de Táxi
+1917;1917;1917;1917
+A Queda! As Últimas Horas de Hitler;A Queda! As Últimas Horas de Hitler;A Queda! As Últimas Horas de Hitler;A Queda! As Últimas Horas de Hitler
+Dangal;Dangal;Dangal;Dangal
+Por uns Dólares a Mais;Por uns Dólares a Mais;Por uns Dólares a Mais;Por uns Dólares a Mais
+Batman Begins;Batman Begins;Batman Begins;Batman Begins
+Top Gun: Maverick;Top Gun: Maverick;Top Gun: Maverick;Top Gun: Maverick
+Quanto Mais Quente Melhor;Quanto Mais Quente Melhor;Quanto Mais Quente Melhor;Quanto Mais Quente Melhor
+O Garoto;O Garoto;O Garoto;O Garoto
+O Lobo de Wall Street;O Lobo de Wall Street;O Lobo de Wall Street;O Lobo de Wall Street
+Meu Pai;Meu Pai;Meu Pai;Meu Pai
+Green Book: O Guia;Green Book: O Guia;Green Book: O Guia;Green Book: O Guia
+A Malvada;A Malvada;A Malvada;A Malvada
+Julgamento em Nuremberg;Julgamento em Nuremberg;Julgamento em Nuremberg;Julgamento em Nuremberg
+O Show de Truman: O Show da Vida;O Show de Truman: O Show da Vida;O Show de Truman: O Show da Vida;O Show de Truman: O Show da Vida
+Sangue Negro;Sangue Negro;Sangue Negro;Sangue Negro
+Cassino;Cassino;Cassino;Cassino
+Ran;Ran;Ran;Ran
+Ilha do Medo;Ilha do Medo;Ilha do Medo;Ilha do Medo
+O Labirinto do Fauno;O Labirinto do Fauno;O Labirinto do Fauno;O Labirinto do Fauno
+O Sexto Sentido;O Sexto Sentido;O Sexto Sentido;O Sexto Sentido
+Jurassic Park;Jurassic Park;Jurassic Park;Jurassic Park
+Os Imperdoáveis;Os Imperdoáveis;Os Imperdoáveis;Os Imperdoáveis
+Uma Mente Brilhante;Uma Mente Brilhante;Uma Mente Brilhante;Uma Mente Brilhante
+O Tesouro da Sierra Madre;O Tesouro da Sierra Madre;O Tesouro da Sierra Madre;O Tesouro da Sierra Madre
+Yojimbo, o Guarda-Costas;Yojimbo, o Guarda-Costas;Yojimbo, o Guarda-Costas;Yojimbo, o Guarda-Costas
+Onde os Fracos Não Têm Vez;Onde os Fracos Não Têm Vez;Onde os Fracos Não Têm Vez;Onde os Fracos Não Têm Vez
+Kill Bill: Volume 1;Kill Bill: Volume 1;Kill Bill: Volume 1;Kill Bill: Volume 1
+Monty Python em Busca do Cálice Sagrado;Monty Python em Busca do Cálice Sagrado;Monty Python em Busca do Cálice Sagrado;Monty Python em Busca do Cálice Sagrado
+O Enigma de Outro Mundo;O Enigma de Outro Mundo;O Enigma de Outro Mundo;O Enigma de Outro Mundo
+Fugindo do Inferno;Fugindo do Inferno;Fugindo do Inferno;Fugindo do Inferno
+Rashomon;Rashomon;Rashomon;Rashomon
+Procurando Nemo;Procurando Nemo;Procurando Nemo;Procurando Nemo
+O Homem Elefante;O Homem Elefante;O Homem Elefante;O Homem Elefante
+Chinatown;Chinatown;Chinatown;Chinatown
+O Castelo Animado;O Castelo Animado;O Castelo Animado;O Castelo Animado
+Disque M para Matar;Disque M para Matar;Disque M para Matar;Disque M para Matar
+...E o Vento Levou;...E o Vento Levou;...E o Vento Levou;...E o Vento Levou
+V de Vingança;V de Vingança;V de Vingança;V de Vingança
+Touro Indomável;Touro Indomável;Touro Indomável;Touro Indomável
+Jogos, Trapaças e Dois Canos Fumegantes;Jogos, Trapaças e Dois Canos Fumegantes;Jogos, Trapaças e Dois Canos Fumegantes;Jogos, Trapaças e Dois Canos Fumegantes
+Homem-Aranha: Sem Volta para Casa;Homem-Aranha: Sem Volta para Casa;Homem-Aranha: Sem Volta para Casa;Homem-Aranha: Sem Volta para Casa
+Os Suspeitos;Os Suspeitos;Os Suspeitos;Os Suspeitos
+O Segredo dos Seus Olhos;O Segredo dos Seus Olhos;O Segredo dos Seus Olhos;O Segredo dos Seus Olhos
+Divertida Mente;Divertida Mente;Divertida Mente;Divertida Mente
+Três Anúncios para um Crime;Três Anúncios para um Crime;Três Anúncios para um Crime;Três Anúncios para um Crime
+A Ponte do Rio Kwai;A Ponte do Rio Kwai;A Ponte do Rio Kwai;A Ponte do Rio Kwai
+Trainspotting: Sem Limites;Trainspotting: Sem Limites;Trainspotting: Sem Limites;Trainspotting: Sem Limites
+Fargo: Uma Comédia de Erros;Fargo: Uma Comédia de Erros;Fargo: Uma Comédia de Erros;Fargo: Uma Comédia de Erros
+Guerreiro;Guerreiro;Guerreiro;Guerreiro
+Gran Torino;Gran Torino;Gran Torino;Gran Torino
+Prenda-me se for Capaz;Prenda-me se for Capaz;Prenda-me se for Capaz;Prenda-me se for Capaz
+Meu Amigo Totoro;Meu Amigo Totoro;Meu Amigo Totoro;Meu Amigo Totoro
+Menina de Ouro;Menina de Ouro;Menina de Ouro;Menina de Ouro
+Klaus;Klaus;Klaus;Klaus
+Harry Potter e as Relíquias da Morte - Parte 2;Harry Potter e as Relíquias da Morte - Parte 2;Harry Potter e as Relíquias da Morte - Parte 2;Harry Potter e as Relíquias da Morte - Parte 2
+Filhos do Paraíso;Filhos do Paraíso;Filhos do Paraíso;Filhos do Paraíso
+Blade Runner: O Caçador de Androides;Blade Runner: O Caçador de Androides;Blade Runner: O Caçador de Androides;Blade Runner: O Caçador de Androides
+12 Anos de Escravidão;12 Anos de Escravidão;12 Anos de Escravidão;12 Anos de Escravidão
+Antes do Amanhecer;Antes do Amanhecer;Antes do Amanhecer;Antes do Amanhecer
+O Grande Hotel Budapeste;O Grande Hotel Budapeste;O Grande Hotel Budapeste;O Grande Hotel Budapeste
+Em Busca do Ouro;Em Busca do Ouro;Em Busca do Ouro;Em Busca do Ouro
+Ben-Hur;Ben-Hur;Ben-Hur;Ben-Hur
+Garota Exemplar;Garota Exemplar;Garota Exemplar;Garota Exemplar
+Barry Lyndon;Barry Lyndon;Barry Lyndon;Barry Lyndon
+Sindicato de Ladrões;Sindicato de Ladrões;Sindicato de Ladrões;Sindicato de Ladrões
+Até o Último Homem;Até o Último Homem;Até o Último Homem;Até o Último Homem
+Em Nome do Pai;Em Nome do Pai;Em Nome do Pai;Em Nome do Pai
+Memórias de um Assassino;Memórias de um Assassino;Memórias de um Assassino;Memórias de um Assassino
+A General;A General;A General;A General
+O Franco Atirador;O Franco Atirador;O Franco Atirador;O Franco Atirador
+Morangos Silvestres;Morangos Silvestres;Morangos Silvestres;Morangos Silvestres
+O 3º Homem;O 3º Homem;O 3º Homem;O 3º Homem
+Relatos Selvagens;Relatos Selvagens;Relatos Selvagens;Relatos Selvagens
+O Salário do Medo;O Salário do Medo;O Salário do Medo;O Salário do Medo
+Bancando o Águia;Bancando o Águia;Bancando o Águia;Bancando o Águia
+Sociedade dos Poetas Mortos;Sociedade dos Poetas Mortos;Sociedade dos Poetas Mortos;Sociedade dos Poetas Mortos
+Mad Max: Estrada da Fúria;Mad Max: Estrada da Fúria;Mad Max: Estrada da Fúria;Mad Max: Estrada da Fúria
+A Mulher Faz o Homem;A Mulher Faz o Homem;A Mulher Faz o Homem;A Mulher Faz o Homem
+Monstros S.A.;Monstros S.A.;Monstros S.A.;Monstros S.A.
+Tubarão;Tubarão;Tubarão;Tubarão
+Como Treinar o Seu Dragão;Como Treinar o Seu Dragão;Como Treinar o Seu Dragão;Como Treinar o Seu Dragão
+Mary e Max: Uma Amizade Diferente;Mary e Max: Uma Amizade Diferente;Mary e Max: Uma Amizade Diferente;Mary e Max: Uma Amizade Diferente
+O Sétimo Selo;O Sétimo Selo;O Sétimo Selo;O Sétimo Selo
+O Quarto de Jack;O Quarto de Jack;O Quarto de Jack;O Quarto de Jack
+Ford vs Ferrari;Ford vs Ferrari;Ford vs Ferrari;Ford vs Ferrari
+O Grande Lebowski;O Grande Lebowski;O Grande Lebowski;O Grande Lebowski
+Era uma Vez em Tóquio;Era uma Vez em Tóquio;Era uma Vez em Tóquio;Era uma Vez em Tóquio
+Ratatouille;Ratatouille;Ratatouille;Ratatouille
+Rocky: Um Lutador;Rocky: Um Lutador;Rocky: Um Lutador;Rocky: Um Lutador
+Hotel Ruanda;Hotel Ruanda;Hotel Ruanda;Hotel Ruanda
+Logan;Logan;Logan;Logan
+O Martírio de Joana D'Arc;O Martírio de Joana D'Arc;O Martírio de Joana D'Arc;O Martírio de Joana D'Arc
+Spotlight: Segredos Revelados;Spotlight: Segredos Revelados;Spotlight: Segredos Revelados;Spotlight: Segredos Revelados
+Platoon;Platoon;Platoon;Platoon
+O Exterminador do Futuro;O Exterminador do Futuro;O Exterminador do Futuro;O Exterminador do Futuro
+Jai Bhim;Jai Bhim;Jai Bhim;Jai Bhim
+Antes do Pôr do Sol;Antes do Pôr do Sol;Antes do Pôr do Sol;Antes do Pôr do Sol
+Rush: No Limite da Emoção;Rush: No Limite da Emoção;Rush: No Limite da Emoção;Rush: No Limite da Emoção
+Rede de Intrigas;Rede de Intrigas;Rede de Intrigas;Rede de Intrigas
+Conta Comigo;Conta Comigo;Conta Comigo;Conta Comigo
+Os Melhores Anos de Nossa Vida;Os Melhores Anos de Nossa Vida;Os Melhores Anos de Nossa Vida;Os Melhores Anos de Nossa Vida
+O Exorcista;O Exorcista;O Exorcista;O Exorcista
+O Ódio;O Ódio;O Ódio;O Ódio
+O Mágico de Oz;O Mágico de Oz;O Mágico de Oz;O Mágico de Oz
+Piratas do Caribe: A Maldição do Pérola Negra;Piratas do Caribe: A Maldição do Pérola Negra;Piratas do Caribe: A Maldição do Pérola Negra;Piratas do Caribe: A Maldição do Pérola Negra
+Na Natureza Selvagem;Na Natureza Selvagem;Na Natureza Selvagem;Na Natureza Selvagem
+Os Incríveis;Os Incríveis;Os Incríveis;Os Incríveis
+Ser ou Não Ser;Ser ou Não Ser;Ser ou Não Ser;Ser ou Não Ser
+Sempre ao Seu Lado;Sempre ao Seu Lado;Sempre ao Seu Lado;Sempre ao Seu Lado
+A Criada;A Criada;A Criada;A Criada
+A Batalha de Argel;A Batalha de Argel;A Batalha de Argel;A Batalha de Argel
+Feitiço do Tempo;Feitiço do Tempo;Feitiço do Tempo;Feitiço do Tempo
+As Vinhas da Ira;As Vinhas da Ira;As Vinhas da Ira;As Vinhas da Ira
+Meu Pai e Meu Filho;Meu Pai e Meu Filho;Meu Pai e Meu Filho;Meu Pai e Meu Filho
+Amores Brutos;Amores Brutos;Amores Brutos;Amores Brutos
+Rebecca, a Mulher Inesquecível;Rebecca, a Mulher Inesquecível;Rebecca, a Mulher Inesquecível;Rebecca, a Mulher Inesquecível
+A Noviça Rebelde;A Noviça Rebelde;A Noviça Rebelde;A Noviça Rebelde
+Rebeldia Indomável;Rebeldia Indomável;Rebeldia Indomável;Rebeldia Indomável
+A Canção da Estrada;A Canção da Estrada;A Canção da Estrada;A Canção da Estrada
+O Gigante de Ferro;O Gigante de Ferro;O Gigante de Ferro;O Gigante de Ferro
+Aconteceu Naquela Noite;Aconteceu Naquela Noite;Aconteceu Naquela Noite;Aconteceu Naquela Noite
+Histórias Cruzadas;Histórias Cruzadas;Histórias Cruzadas;Histórias Cruzadas
+Os Incompreendidos;Os Incompreendidos;Os Incompreendidos;Os Incompreendidos
+Quando Duas Mulheres Pecam;Quando Duas Mulheres Pecam;Quando Duas Mulheres Pecam;Quando Duas Mulheres Pecam
+A Vida de Brian;A Vida de Brian;A Vida de Brian;A Vida de Brian
+Aladdin;Aladdin;Aladdin;Aladdin
+Dança com Lobos;Dança com Lobos;Dança com Lobos;Dança com Lobos
