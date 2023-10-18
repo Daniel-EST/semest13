@@ -10,7 +10,6 @@ Este repositório contém o material para o Minicurso de Raspagem de dados com R
 ## Exemplos de scraping de dados de diferentes tipos de sites
 - IMDB
 - Airbnb
-- TripAdvisor
 - Quotes to Scrape
 
 ## Estrutura do Repositório
